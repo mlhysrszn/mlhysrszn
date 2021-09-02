@@ -3,8 +3,9 @@
 <img align="right" height="250px" src="https://i.imgur.com/PJkpMHy.gif" />
 
 - I'm currently Studying Trakya University Computer Engineering
-- I’m currently learning mobile development
+- I’m currently learning android development
 - I'm Team Member at DSC Edirne
+- I'm part of a 6-person team called Netabis
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
