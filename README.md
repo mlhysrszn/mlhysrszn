@@ -5,7 +5,7 @@
 - I'm currently Studying Trakya University Computer Engineering
 - I’m currently learning android development
 - I'm Team Member at DSC Edirne
-- I'm part of a 6-person team called Netabis
+- I'm part of a 6-person team called [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
