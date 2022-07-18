@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melih Yaşar SÖZEN</h1>
-<h3 align="center">I'm a Native Android Developer</h3>
+<h3 align="center">I'm a Mobile Application Developer</h3>
 <img align="right" height="250px" src="https://i.imgur.com/PJkpMHy.gif" />
 
 - I'm currently Studying Trakya University Computer Engineering
