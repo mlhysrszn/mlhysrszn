@@ -2,9 +2,7 @@
 <h3 align="center">I'm a Mobile Application Developer</h3>
 <img align="right" height="250px" src="https://i.imgur.com/PJkpMHy.gif" />
 
-- I'm currently studying Trakya University Computer Engineering
-- I’m currently working as a Flutter Developer at LeanScale
-- I'm Core Team Member at DSC Edirne
+- I’m currently working as a Mobile Application Developer at LeanScale
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
